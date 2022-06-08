@@ -1,4 +1,4 @@
-module phonegeocode
+module github.com/kimii/phonegeocode
 
 go 1.14
 
